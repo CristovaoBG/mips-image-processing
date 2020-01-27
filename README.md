@@ -13,5 +13,5 @@ To visualize the image that the program is working on, enter on MARS: "Tools" ->
 
 feito por / Made by:
 Cristóvão Bartholo Gomes,
-Douglas Maurício Bispo de Souza e
+Douglas Maurício Bispo de Souza e/and
 Estanislau Jacomé Dantas.
