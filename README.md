@@ -11,7 +11,7 @@ In this project we implement a few algorithms to perform visual effects on BMP i
 To run this code we used MARS 4.5.
 To visualize the image that the program is working on, enter on MARS: "Tools" -> "BitMap Display" and choose the size of the image you are working on.
 
-feito por / Made by:
+Made by:
 Cristóvão Bartholo Gomes,
-Douglas Maurício Bispo de Souza e/and
+Douglas Maurício Bispo de Souza and
 Estanislau Jacomé Dantas.
